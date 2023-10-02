@@ -1,1 +1,2 @@
-![FLOCnet Logo]("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAYAAADsEGyPAAAAAXNSR0IArs4c6QAAIABJREFUeF7s3QfUXGWZAOAXRZGOCFY6uBZAurqwUqSsuKggRRQrVVAQBKRIld4EKaH3SAkpEiBAekIS0iC9QnrvPSF9z/zRXUCS")
+<img src="./assets/logo-transparent.png" alt="FLOCnet Logo" width="200"/>
+<h1>FLOCnet</h1>
