@@ -1,2 +1,2 @@
-<img src="./assets/logo-white-bg.png" alt="FLOCnet Logo" width="200"/>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAYAAADsEGyPAAAAAXNSR0IArs4c6QAAIABJREFUeF7s3QfUXGWZAOAXRZGOCFY6uBZAurqwUqSsuKggRRQrVVAQBKRIld4EKaH3SAkpEiBAekIS0iC9QnrvPSF9z/zRXUCS" alt="FLOCnet Logo" width="200"/>
 <h1>FLOCnet</h1>
