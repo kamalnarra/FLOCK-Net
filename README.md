@@ -1,2 +1,2 @@
-<img src="./assets.jpg" alt="FLOCnet Logo" width="50"/>
+<img src="./assets/logo.jpg" alt="FLOCnet Logo" width="50"/>
 # FLOCnet
